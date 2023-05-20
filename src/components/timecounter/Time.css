@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bookman+Old+Style&display=swap');
+
+#countdown-clock {
+    color: #272626;
+    font-size: 90px;
+    font-family: 'Bookman Old Style', serif;
+    font-weight: bold;
+}
+
+#selected-station {
+    font-size: 15px;
+}
