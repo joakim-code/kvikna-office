@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kvikna-office/static/css/main.4fa0cf59.css",
+    "main.css": "/kvikna-office/static/css/main.ab61adea.css",
     "main.js": "/kvikna-office/static/js/main.02b8573d.js",
     "static/js/787.3bf0bcc3.chunk.js": "/kvikna-office/static/js/787.3bf0bcc3.chunk.js",
     "index.html": "/kvikna-office/index.html",
-    "main.4fa0cf59.css.map": "/kvikna-office/static/css/main.4fa0cf59.css.map",
+    "main.ab61adea.css.map": "/kvikna-office/static/css/main.ab61adea.css.map",
     "main.02b8573d.js.map": "/kvikna-office/static/js/main.02b8573d.js.map",
     "787.3bf0bcc3.chunk.js.map": "/kvikna-office/static/js/787.3bf0bcc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fa0cf59.css",
+    "static/css/main.ab61adea.css",
     "static/js/main.02b8573d.js"
   ]
 }
