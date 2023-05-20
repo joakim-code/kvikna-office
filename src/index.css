@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Bookman+Old+Style&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap');
 
 body {
   margin: 0;
-  font-family: 'Bookman Old Style', serif;
+
+  font-family: 'EB Garamond', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
