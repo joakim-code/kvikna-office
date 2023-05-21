@@ -48,7 +48,7 @@ function CountDown() {
 
         const currentStartTime = `${shours}:${sminutes}:${sseconds}`;
         
-        setCurrentStatus('running');
+        setCurrentStatus('sitting');
 
         if((timeToGo.getHours() === 0 && timeToGo.getMinutes() < 12) || timeToGo.getHours() > 0) {
             //to close to make it, go back to work wait for next one
